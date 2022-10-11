@@ -1,1 +1,1 @@
-# GL Remote
+# GL and GH Remotes
